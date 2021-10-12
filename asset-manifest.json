@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "https://www.hkman.ga/static/css/main.2eb99919.chunk.css",
-    "main.js": "https://www.hkman.ga/static/js/main.0769387d.chunk.js",
-    "runtime-main.js": "https://www.hkman.ga/static/js/runtime-main.9bbcfc8f.js",
-    "static/css/2.29852eb5.chunk.css": "https://www.hkman.ga/static/css/2.29852eb5.chunk.css",
-    "static/js/2.3f8a2b7f.chunk.js": "https://www.hkman.ga/static/js/2.3f8a2b7f.chunk.js",
-    "index.html": "https://www.hkman.ga/index.html",
-    "static/js/2.3f8a2b7f.chunk.js.LICENSE.txt": "https://www.hkman.ga/static/js/2.3f8a2b7f.chunk.js.LICENSE.txt"
+    "main.css": "https://play.hkman.ga/static/css/main.2eb99919.chunk.css",
+    "main.js": "https://play.hkman.ga/static/js/main.3aee9054.chunk.js",
+    "runtime-main.js": "https://play.hkman.ga/static/js/runtime-main.02e85896.js",
+    "static/css/2.29852eb5.chunk.css": "https://play.hkman.ga/static/css/2.29852eb5.chunk.css",
+    "static/js/2.3f8a2b7f.chunk.js": "https://play.hkman.ga/static/js/2.3f8a2b7f.chunk.js",
+    "index.html": "https://play.hkman.ga/index.html",
+    "static/js/2.3f8a2b7f.chunk.js.LICENSE.txt": "https://play.hkman.ga/static/js/2.3f8a2b7f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9bbcfc8f.js",
+    "static/js/runtime-main.02e85896.js",
     "static/css/2.29852eb5.chunk.css",
     "static/js/2.3f8a2b7f.chunk.js",
     "static/css/main.2eb99919.chunk.css",
-    "static/js/main.0769387d.chunk.js"
+    "static/js/main.3aee9054.chunk.js"
   ]
 }
