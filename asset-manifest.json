@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "https://hkman.ga/static/css/main.2eb99919.chunk.css",
+    "main.js": "https://hkman.ga/static/js/main.458fe6bc.chunk.js",
+    "runtime-main.js": "https://hkman.ga/static/js/runtime-main.3bc986c4.js",
+    "static/css/2.29852eb5.chunk.css": "https://hkman.ga/static/css/2.29852eb5.chunk.css",
+    "static/js/2.3f8a2b7f.chunk.js": "https://hkman.ga/static/js/2.3f8a2b7f.chunk.js",
+    "index.html": "https://hkman.ga/index.html",
+    "static/js/2.3f8a2b7f.chunk.js.LICENSE.txt": "https://hkman.ga/static/js/2.3f8a2b7f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3bc986c4.js",
+    "static/css/2.29852eb5.chunk.css",
+    "static/js/2.3f8a2b7f.chunk.js",
+    "static/css/main.2eb99919.chunk.css",
+    "static/js/main.458fe6bc.chunk.js"
+  ]
+}
